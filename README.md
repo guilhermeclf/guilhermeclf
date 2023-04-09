@@ -11,3 +11,9 @@
 [![colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]()
 [![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
 [![google sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)]()
+
+### About Me
+
+Quant portfolio management and datasciense enthusiast with the will of learning and developing quantitative approaches for asset allocation and risk management.
+I enjoy making codes in python to analyse assets and help me in the asset allocation process with quantitative and risk bias.
+Now and then I'll be sharing some scripts here! Hope we can evolve together : )
